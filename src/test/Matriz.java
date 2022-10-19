@@ -18,6 +18,7 @@ public class Matriz {
 		do {
 			//crear una matriz vacia para almacenar nuevos valores
 			int[][] nuevaMatriz = new int[matriz.length][matriz.length];
+			//llamar metodos
 			rotarMatriz(0, 0, nuevaMatriz);
 			System.out.println(imprimirMatriz());
 			
