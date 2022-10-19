@@ -4,8 +4,8 @@ import javax.swing.JOptionPane;
 public class Matriz {
 	
 	private static int[][] matriz = {{1, 2, 3},
-									 {4, 5, 6},
-									 {7, 8, 9}
+							{4, 5, 6},
+							{7, 8, 9}
 	};
 	//definir tamaño de matriz
 	private static int talla = matriz.length;
